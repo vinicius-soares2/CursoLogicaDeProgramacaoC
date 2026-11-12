@@ -12,5 +12,6 @@
 ![Mais Escapes](https://github.com/vinicius-soares2/CursoLogicaDeProgramacaoC/blob/main/2.1%20-%20SaidaDeDados/sequencias-de-escapes-parte-dois.png)
 
 - 2.2 Entrada De Dados - Formatos de Especificadores:
+- 
 ![Especificadores](https://github.com/vinicius-soares2/CursoLogicaDeProgramacaoC/blob/main/2.2%20-%20EntradaDeDados/especificadores-scanf.png)
 
