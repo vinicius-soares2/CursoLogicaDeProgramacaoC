@@ -15,3 +15,9 @@
 
 ![Especificadores](https://github.com/vinicius-soares2/CursoLogicaDeProgramacaoC/blob/main/2.2%20-%20EntradaDeDados/especificadores-scanf.png)
 
+- 3.1 Variaveis - Tipos de Dados:
+
+![Mais Escapes](https://github.com/vinicius-soares2/CursoLogicaDeProgramacaoC/blob/main/3.1%20-%20Variaveis/TiposDeDados.png)
+
+
+
