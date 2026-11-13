@@ -19,5 +19,8 @@
 
 ![Mais Escapes](https://github.com/vinicius-soares2/CursoLogicaDeProgramacaoC/blob/main/3.1%20-%20Variaveis/TiposDeDados.png)
 
+- 3.2 Operadores De Atribuição:
+- 
+![Mais Escapes](https://github.com/vinicius-soares2/CursoLogicaDeProgramacaoC/blob/main/3.2%20-%20OperadoresDeAtribuicao/OperadoresDeAtribuicao.png)
 
 
