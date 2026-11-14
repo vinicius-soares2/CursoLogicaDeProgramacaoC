@@ -23,4 +23,12 @@
   
 ![Mais Escapes](https://github.com/vinicius-soares2/CursoLogicaDeProgramacaoC/blob/main/3.2%20-%20OperadoresDeAtribuicao/OperadoresDeAtribuicao.png)
 
+- 4.1 Operadores Relacionais:
+
+![Mais Escapes](https://github.com/vinicius-soares2/CursoLogicaDeProgramacaoC/blob/main/4.1%20-%20OperadoresRelacionais/OperadoresRelacionais.png)
+
+
+
+
+
 
